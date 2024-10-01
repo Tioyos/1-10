@@ -1,6 +1,2 @@
-## Exercício 4: Par ou Ímpar 
- **Objetivo:** Escreva um programa que conte de 1 a 10 e imprima se cada número é par ou ímpar. 
-
-  
-
-**Dica:** Use o operador `%` para verificar se um número é par ou ímpar. 
+## Exercício 5: Tabuada 
+ **Objetivo:** Crie um programa que exiba a tabuada do número 5 (de 1 a 10) utilizando um loop `while`. O programa deve imprimir o resultado de cada multiplicação. 
